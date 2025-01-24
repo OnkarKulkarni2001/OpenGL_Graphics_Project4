@@ -1,0 +1,1 @@
+Please press 8 to view the bullets moving, those have tiny lights in them, but they are looking like they are colored, If you wanna see them without animation just press 5.

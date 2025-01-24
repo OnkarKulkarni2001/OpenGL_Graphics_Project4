@@ -1,0 +1,24 @@
+﻿  glad.c
+  cAiEnemy.cpp
+  cLightManager.cpp
+  cLightMover.cpp
+  cPhysicsUpdated.cpp
+  cPlayer.cpp
+  cScene.cpp
+  cShaderCompiler.cpp
+  cVAOManager.cpp
+  FlyCam.cpp
+  cLoadModels.cpp
+  Source.cpp
+D:\Graphics1\MidtermExtracted\Midterm\GameEngine\Source.cpp(103,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\MidtermExtracted\Midterm\GameEngine\Source.cpp(134,97): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\MidtermExtracted\Midterm\GameEngine\Source.cpp(135,97): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\MidtermExtracted\Midterm\GameEngine\Source.cpp(136,97): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\MidtermExtracted\Midterm\GameEngine\Source.cpp(143,88): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\MidtermExtracted\Midterm\GameEngine\Source.cpp(144,88): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\MidtermExtracted\Midterm\GameEngine\Source.cpp(145,88): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\MidtermExtracted\Midterm\GameEngine\Source.cpp(234,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\Graphics1\MidtermExtracted\Midterm\GameEngine\cPhysicsUpdated.cpp(114): warning C4715: 'cPhysicsUpdated::CheckBoundingSphereCollision': not all control paths return a value
+  LINK : D:\Graphics1\MidtermExtracted\Midterm\x64\Debug\GameEngine.exe not found or not built by the last incremental link; performing full link
+  GameEngine.vcxproj -> D:\Graphics1\MidtermExtracted\Midterm\x64\Debug\GameEngine.exe
