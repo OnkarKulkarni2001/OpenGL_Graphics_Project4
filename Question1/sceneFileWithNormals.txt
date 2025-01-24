@@ -1,0 +1,47 @@
+number_of_meshes 16
+
+mesh_paths 
+"D:\Graphics1\Midterm\PLY_models\Battlestar_Galactica_Res_0_(444,087_faces)_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\Old_Viper_Res_0_(315742_faces)_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\CylonRaider_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\Viper_MkVII_xyz_n_uv.ply"
+
+"D:\Graphics1\Midterm\PLY_models\Viper_MkVII_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\Viper_MkVII_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\Viper_MkVII_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\Viper_MkVII_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\Viper_MkVII_xyz_n_uv.ply"
+
+"D:\Graphics1\Midterm\PLY_models\CylonRaider_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\CylonRaider_xyz_n_uv.ply"
+
+"D:\Graphics1\Midterm\PLY_models\TearDropBullet_inverted_normals_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\TearDropBullet_inverted_normals_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\TearDropBullet_inverted_normals_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\TearDropBullet_inverted_normals_xyz_n_uv.ply"
+"D:\Graphics1\Midterm\PLY_models\TearDropBullet_inverted_normals_xyz_n_uv.ply"
+
+// meshTransform layout
+// x y z xScale yScale zScale xRotation yRotation zRotation
+// where rotations are angles.
+
+mesh_transforms
+0.0 0.0 0.0  1.0 1.0 1.0  0.0 0.0 0.0
+17047.0 61092.0 -7678.0  1.0 1.0 1.0  121.926 116 -5.0
+0.0 0.0 0.0  1.0 1.0 1.0  0.0 0.0 0.0
+18358.0 59985.0 -7819.0  50.0 50.0 50.0  255.5 4.5 -34.5
+
+344868.0 112168.0 -10071.0  50.0 50.0 50.0  62.726 178 129
+344868.0 112568.0 -10071.0  50.0 50.0 50.0  62.726 178 129
+344868.0 112968.0 -10071.0  50.0 50.0 50.0  62.726 178 129
+344868.0 113368.0 -10071.0  50.0 50.0 50.0  62.726 178 129
+344868.0 113768.0 -10071.0  50.0 50.0 50.0  62.726 178 129
+
+365068.0 121568.0 -13071.0  150.0 150.0 150.0  99.726 170.0 298.5
+365468.0 121568.0 -13071.0  150.0 150.0 150.0  99.726 170.0 298.5
+
+361068.0 118568.0 -12071.0 1.0 1.0 1.0  88.726 170.0 472
+361068.0 118768.0 -12071.0 1.0 1.0 1.0  88.726 170.0 472
+361068.0 118968.0 -12071.0 1.0 1.0 1.0  88.726 170.0 472
+361068.0 119168.0 -12071.0 1.0 1.0 1.0  88.726 170.0 472
+361068.0 119368.0 -12071.0 1.0 1.0 1.0  88.726 170.0 472
